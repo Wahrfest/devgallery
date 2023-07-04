@@ -1,0 +1,21 @@
+body{
+    background-color: #1c1c1c;
+
+    color: white;
+
+    margin: 0;
+    box-sizing: border-box;
+
+    overflow-y: hidden;
+}
+.header {
+    background-color: rgba(rgba(0, 0, 0, 0.21), rgba(0, 0, 0, 0.21), rgba(0, 0, 0, 0.21), alpha);
+}
+.bl{
+    height: 100vh;
+    width: 100vw;
+}
+.footer{
+    height: 50vh;
+    width: 100vw;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ezzefrost",
+  "version": "1.0.0",
+  "description": "Site porfólio para divulgar meu trabalho de designer e dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre R. B. Filho",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0"
+  }
+}

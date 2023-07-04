@@ -1,0 +1,20 @@
+#bl1{
+    display: grid;
+
+    background-image: url('/img/bl1.png');
+}
+#bl2{
+    display: grid;
+
+    background-image: url('/img/bl2.png');
+}
+#bl3{
+    display: grid;
+
+    background-image: url('/img/bl3.png');
+}
+.footer{
+    display: grid;
+
+    background-image: url('/img/bl4.png');
+}
